@@ -1,0 +1,3 @@
+require('./String');
+
+module.exports = {}

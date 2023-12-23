@@ -1,0 +1,19 @@
+{
+  "name": "blacklist_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "keywords": [],
+  "author": "ifanoxy",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {
+    "discord-api-types": "^0.37.66"
+  }
+}
