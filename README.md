@@ -20,7 +20,7 @@ Voici un template de bot discord. Le bot a été réalisé en utilisant node.js 
 - /blacklist ajouter
   
 - /blacklist retirer
-- 
+
 
 ## 📝 [Serveur Support](https://discord.gg/zr7yJs6nxF)
 
